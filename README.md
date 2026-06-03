@@ -1,6 +1,6 @@
-# Hallo, ich bin Teodor! 👋
+# Hi, I'm Teodor! 👋
 
-Ich bin ein passionierter **Wirtschaftsinformatik-Student** an der Fachhochschule Nordwestschweiz (FHNW) mit Fokus auf Software-Architektur, Data Science und moderne Web-Technologien. Nebenbei arbeite ich als IT-Hilfsassistent an der Universität Bern und beschäftige mich leidenschaftlich mit der Optimierung und Absicherung komplexer Systeme.
+I am a passionate **Business Information Technology** (Wirtschaftsinformatik) student at the University of Applied Sciences and Arts Northwestern Switzerland (FHNW), specializing in software architecture, data science, and modern web technologies. Alongside my studies, I work as an IT assistant at the University of Bern, managing complex infrastructures.
 
 ---
 
@@ -27,23 +27,63 @@ Ich bin ein passionierter **Wirtschaftsinformatik-Student** an der Fachhochschul
 
 ---
 
-### 📂 Ausgewählte Projekte
+### 📂 Featured Projects
+
+#### 📦 [PackOps Logistics Web App](https://github.com/teodorglisic/packops-frontend)
+A web application designed for packaging and warehouse operations management.
+* **Frontend:** Developed in TypeScript/React ([packops-frontend](https://github.com/teodorglisic/packops-frontend)).
+* **Backend:** Integrated with the Spring/REST-based backend services ([packops-backend](https://github.com/ksriganthan/packops-backend)).
+* **Focus:** Component-based UI design, state management, REST API integration.
 
 #### ☕ [AALM Microservices Ecosystem](https://github.com/teodorglisic/aalm-catalog) (Java / Spring Boot)
-Ein verteiltes E-Commerce-System, bestehend aus Katalog- (`aalm-catalog`) und Bestellservices (`aalm-order`), integriert mit automatisierten Lasttests über Gatling (`aalm-gatling-test`).
-* **Fokus:** REST APIs, Microservices-Kommunikation, Performance-Testing.
+A distributed e-commerce ecosystem consisting of catalog (`aalm-catalog`) and order (`aalm-order`) services, tested under heavy loads with Gatling (`aalm-gatling-test`).
+* **Focus:** REST APIs, microservices communication, performance testing.
 
-#### 📊 [Time Series Analysis in R](https://github.com/teodorglisic/tsar_project_3_group_3) (TSAR Modul @ FHNW)
-Statistische Analyse und Zeitreihenanalyse von realen Datensätzen unter Verwendung von R und R-Markdown. 
-* **Fokus:** Zeitreihen-Forecasting, statistische Modelle, explorative Datenanalyse (EDA).
+#### 📊 [Time Series Analysis in R](https://github.com/teodorglisic/tsar_project_3_group_3) (TSAR Module @ FHNW)
+Statistical analysis and forecasting of real-world datasets using R and R-Markdown.
+* **Focus:** Time series forecasting, statistical modeling, exploratory data analysis (EDA).
 
 #### 🧠 [Software Architecture Cases](https://github.com/teodorglisic/swa_case_2_group_2_drools_engine) (Java / Drools)
-Implementierung verschiedener Architekturmuster, darunter eine regelbasierte Engine mit JBoss Drools für automatisierte Entscheidungsfindung.
-* **Fokus:** Entwurfsmuster (Design Patterns), Rule Engines, Clean Architecture.
+Implementation of various enterprise architecture patterns, including a rule-based decision engine with JBoss Drools.
+* **Focus:** Design patterns, rule engines, Clean Architecture.
 
-#### ⚡ [Full Stack Open Solutions](https://github.com/teodorglisic/fullstackopen-solutions) (JavaScript / TypeScript / React)
-Meine Lösungen für den renommierten "Full Stack Open"-Kurs der Universität Helsinki zur Vertiefung moderner Web-Technologien.
-* **Fokus:** React, Node.js, Redux, Docker, CI/CD.
+#### ⚡ [Full Stack Open Solutions](https://github.com/teodorglisic/fullstackopen-solutions) (React / Node.js)
+My solutions for the University of Helsinki's Web Development curriculum to expand my skills in modern JavaScript/TypeScript ecosystems.
+
+---
+
+### 📬 Contact
+
+- **LinkedIn:** [linkedin.com/in/teodor-glisic](https://linkedin.com/in/teodor-glisic)
+- **Email:** [glisic.teodor@gmail.com](mailto:glisic.teodor@gmail.com)
+
+---
+
+# 🇩🇪 Hallo, ich bin Teodor! 👋
+
+Ich bin ein engagierter **Wirtschaftsinformatik-Student** an der Fachhochschule Nordwestschweiz (FHNW) mit Fokus auf Software-Architektur, Data Science und moderne Web-Technologien. Nebenbei arbeite ich als IT-Hilfsassistent an der Universität Bern und kümmere mich um die Administration und Absicherung komplexer IT-Systeme.
+
+---
+
+### 📂 Ausgewählte Projekte
+
+#### 📦 [PackOps Logistics Web App](https://github.com/teodorglisic/packops-frontend)
+Eine Webapplikation zur Verwaltung und Optimierung von Verpackungs- und Logistikprozessen.
+* **Frontend:** Entwickelt mit TypeScript/React ([packops-frontend](https://github.com/teodorglisic/packops-frontend)).
+* **Backend:** Integriert mit den Spring/REST-basierten Backend-Services ([packops-backend](https://github.com/ksriganthan/packops-backend)).
+* **Fokus:** Komponentenbasierte UI, State-Management, REST-API-Integration.
+
+#### ☕ [AALM Microservices Ecosystem](https://github.com/teodorglisic/aalm-catalog) (Java / Spring Boot)
+Ein verteiltes E-Commerce-System, bestehend aus Katalog- (`aalm-catalog`) und Bestellservices (`aalm-order`), integriert mit Lasttests über Gatling (`aalm-gatling-test`).
+
+#### 📊 [Zeitreihenanalyse in R](https://github.com/teodorglisic/tsar_project_3_group_3) (TSAR Modul @ FHNW)
+Statistische Analyse und Zeitreihenprognose von realen Datensätzen unter Verwendung von R und R-Markdown.
+
+#### 🧠 [Software Architecture Cases](https://github.com/teodorglisic/swa_case_2_group_2_drools_engine) (Java / Drools)
+Implementierung verschiedener Architekturmuster, darunter eine regelbasierte Engine mit JBoss Drools.
+
+#### ⚡ [Full Stack Open Solutions](https://github.com/teodorglisic/fullstackopen-solutions) (React / Node.js)
+Meine Lösungen für den "Full Stack Open"-Kurs der Universität Helsinki zur Vertiefung moderner Web-Technologien.
 
 ---
 
@@ -53,3 +93,5 @@ Meine Lösungen für den renommierten "Full Stack Open"-Kurs der Universität He
 - **E-Mail:** [glisic.teodor@gmail.com](mailto:glisic.teodor@gmail.com)
 
 ---
+
+Lass uns gemeinsam an zukunftsweisenden IT-Lösungen arbeiten!
