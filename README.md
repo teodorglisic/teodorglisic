@@ -1,6 +1,8 @@
-# Hi, I'm Teodor! 👋
+# 🇬🇧 Hi, I'm Teodor! 👋
 
-I am a passionate **Business Information Technology** (Wirtschaftsinformatik) student at the University of Applied Sciences and Arts Northwestern Switzerland (FHNW), specializing in software architecture, data science, and modern web technologies. Alongside my studies, I work as an IT assistant at the University of Bern, managing complex infrastructures.
+I am a passionate **Business Information Technology** (Wirtschaftsinformatik) student at the University of Applied Sciences and Arts Northwestern Switzerland (FHNW), specializing in software architecture, data science, and modern web technologies. 
+
+Alongside my studies, I work as an **IT Assistant at the University of Bern**, where I gain hands-on technical experience in system administration and IT operations (managing virtualization with VMware vSphere, configuring Active Directory, administrating Windows/Linux servers, and resolving complex 1st/2nd level hardware and software issues).
 
 ---
 
@@ -19,8 +21,11 @@ I am a passionate **Business Information Technology** (Wirtschaftsinformatik) st
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-#### **Infrastructure & Operations**
+#### **Infrastructure & IT Operations**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white)
+![VMware vSphere](https://img.shields.io/badge/VMware-6294D0?style=for-the-badge&logo=vmware&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-01897B?style=for-the-badge&logo=sap&logoColor=white)
