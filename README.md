@@ -57,16 +57,75 @@ My solutions for the University of Helsinki's Web Development curriculum to expa
 
 ---
 
+### 📂 All Repositories
+
+<details>
+<summary><b>☕ Java & Enterprise Systems</b> (Click to expand)</summary>
+
+- [aalm-catalog](https://github.com/teodorglisic/aalm-catalog) — Product Catalog Microservice (Spring Boot)
+- [aalm-order](https://github.com/teodorglisic/aalm-order) — Purchase Order Microservice (Spring Boot)
+- [aalm-gatling-test](https://github.com/teodorglisic/aalm-gatling-test) — Microservices Performance & Load Tests (Gatling)
+- [swa_case_2_group_2_drools_engine](https://github.com/teodorglisic/swa_case_2_group_2_drools_engine) — Rule-based Decision Engine (JBoss Drools)
+- [swa-case6-db-api](https://github.com/teodorglisic/swa-case6-db-api) — Persistence layer API design (Spring Data JPA)
+- [case5-dashboard](https://github.com/teodorglisic/case5-dashboard) — Web reporting dashboard (Spring Boot)
+- [case5-implementation](https://github.com/teodorglisic/case5-implementation) — Business implementation layer backend
+- [swa_case_1_group_2](https://github.com/teodorglisic/swa_case_1_group_2) — Layered architecture model
+- [swa_case_3](https://github.com/teodorglisic/swa_case_3) — Message routing integration study
+- [swa_case_4_group_2](https://github.com/teodorglisic/swa_case_4_group_2) — REST API service orchestration
+- [sel_project_chatserver](https://github.com/teodorglisic/sel_project_chatserver) — Multi-client socket chat server (Java SE)
+- [sel_project_teodor_glisic](https://github.com/teodorglisic/sel_project_teodor_glisic) — Interactive GUI client for the SEL chat server
+- [ALM-catalog](https://github.com/teodorglisic/ALM-catalog) — Application lifecycle asset catalog
+- [BookNest](https://github.com/teodorglisic/BookNest) — Personal reading log and book catalog
+
+</details>
+
+<details>
+<summary><b>🌐 Web & Frontend (React / TypeScript / Next.js)</b> (Click to expand)</summary>
+
+- [packops-frontend](https://github.com/teodorglisic/packops-frontend) — Logistics packaging operations client (React & TypeScript)
+- [fullstackopen-solutions](https://github.com/teodorglisic/fullstackopen-solutions) — University of Helsinki FSO web exercises
+- [issues-dashboard](https://github.com/teodorglisic/issues-dashboard) — GitHub repository issue metrics visualizer (React & TypeScript)
+- [new-portfolio](https://github.com/teodorglisic/new-portfolio) — Personal web portfolio project (React & TypeScript)
+- [nextjs-tutorial](https://github.com/teodorglisic/nextjs-tutorial) — SSR playground with Next.js App Router
+- [valentine-project](https://github.com/teodorglisic/valentine-project) — Interactive animated single-page web app
+- [cat-quiz](https://github.com/teodorglisic/cat-quiz) — JavaScript score-based quiz game
+- [html-tryout](https://github.com/teodorglisic/html-tryout) — Udemy Full Stack course styling/layout tryouts
+
+</details>
+
+<details>
+<summary><b>📊 Data Analytics, Python & R</b> (Click to expand)</summary>
+
+- [tsar_project_3_group_3](https://github.com/teodorglisic/tsar_project_3_group_3) — Holt-Winters & ARIMA model forecasting in R
+- [tsar_project_2_group_3](https://github.com/teodorglisic/tsar_project_2_group_3) — Regression modeling with autocorrelated errors in R
+- [tsar_project_1_group_3](https://github.com/teodorglisic/tsar_project_1_group_3) — Exploratory time series data analysis in R
+- [data_analysis](https://github.com/teodorglisic/data_analysis) — Python data processing & plotting notebooks (Pandas & Jupyter)
+- [introduction_to_python](https://github.com/teodorglisic/introduction_to_python) — Standard algorithms & language exercises
+- [start_in_python](https://github.com/teodorglisic/start_in_python) — Core Python syntax snippets and basic functions
+
+</details>
+
+<details>
+<summary><b>🛠️ Other Projects (Kotlin)</b> (Click to expand)</summary>
+
+- [battleship_project](https://github.com/teodorglisic/battleship_project) — Battleship board game simulation in Kotlin (CLI)
+
+</details>
+
+---
+
 ### 📬 Contact
 
 - **LinkedIn:** [linkedin.com/in/teodor-glisic](https://linkedin.com/in/teodor-glisic)
 - **Email:** [glisic.teodor@gmail.com](mailto:glisic.teodor@gmail.com)
 
----
+----
 
 # 🇩🇪 Hallo, ich bin Teodor! 👋
 
-Ich bin ein engagierter **Wirtschaftsinformatik-Student** an der Fachhochschule Nordwestschweiz (FHNW) mit Fokus auf Software-Architektur, Data Science und moderne Web-Technologien. Nebenbei arbeite ich als IT-Hilfsassistent an der Universität Bern und kümmere mich um die Administration und Absicherung komplexer IT-Systeme.
+Ich bin ein engagierter **Wirtschaftsinformatik-Student** an der Fachhochschule Nordwestschweiz (FHNW) mit Fokus auf Software-Architektur, Data Science und moderne Web-Technologien. 
+
+Nebenbei arbeite ich als **IT-Hilfsassistent an der Universität Bern**, wo ich wertvolle Praxiserfahrung in der Systemadministration und im technischen Support sammle (Virtualisierung mit VMware vSphere, Administration von Windows- und Linux-Servern, Verwaltung von Active Directory sowie First- und Second-Level-Support bei komplexen Hardware- und Softwareproblemen).
 
 ---
 
@@ -92,11 +151,66 @@ Meine Lösungen für den "Full Stack Open"-Kurs der Universität Helsinki zur Ve
 
 ---
 
+### 📂 Alle Repositories
+
+<details>
+<summary><b>☕ Java & Enterprise Systems</b> (Ausklappen)</summary>
+
+- [aalm-catalog](https://github.com/teodorglisic/aalm-catalog) — Produktkatalog-Microservice (Spring Boot)
+- [aalm-order](https://github.com/teodorglisic/aalm-order) — Bestellungs-Microservice (Spring Boot)
+- [aalm-gatling-test](https://github.com/teodorglisic/aalm-gatling-test) — Lasttests für Microservices (Gatling)
+- [swa_case_2_group_2_drools_engine](https://github.com/teodorglisic/swa_case_2_group_2_drools_engine) — Regelbasierte Entscheidungs-Engine (JBoss Drools)
+- [swa-case6-db-api](https://github.com/teodorglisic/swa-case6-db-api) — Persistenzschicht-API-Design (Spring Data JPA)
+- [case5-dashboard](https://github.com/teodorglisic/case5-dashboard) — Reporting-Dashboard (Spring Boot)
+- [case5-implementation](https://github.com/teodorglisic/case5-implementation) — Business-Logik-Backend
+- [swa_case_1_group_2](https://github.com/teodorglisic/swa_case_1_group_2) — Schichtenarchitektur-Modell
+- [swa_case_3](https://github.com/teodorglisic/swa_case_3) — Message Routing und System-Integration
+- [swa_case_4_group_2](https://github.com/teodorglisic/swa_case_4_group_2) — REST API Service Orchestrierung
+- [sel_project_chatserver](https://github.com/teodorglisic/sel_project_chatserver) — Multi-Client Socket Chatserver (Java SE)
+- [sel_project_teodor_glisic](https://github.com/teodorglisic/sel_project_teodor_glisic) — Interaktiver GUI Client für den Chatserver
+- [ALM-catalog](https://github.com/teodorglisic/ALM-catalog) — Software-Lifecycle Asset-Katalog
+- [BookNest](https://github.com/teodorglisic/BookNest) — Buch-Katalogisierungssystem
+
+</details>
+
+<details>
+<summary><b>🌐 Web & Frontend (React / TypeScript / Next.js)</b> (Ausklappen)</summary>
+
+- [packops-frontend](https://github.com/teodorglisic/packops-frontend) — Verpackungs- & Logistik-Client (React & TypeScript)
+- [fullstackopen-solutions](https://github.com/teodorglisic/fullstackopen-solutions) — Web-Entwicklungsübungen (Uni Helsinki)
+- [issues-dashboard](https://github.com/teodorglisic/issues-dashboard) — GitHub Issue Visualisierer (React & TypeScript)
+- [new-portfolio](https://github.com/teodorglisic/new-portfolio) — Persönliches Entwickler-Portfolio (React & TypeScript)
+- [nextjs-tutorial](https://github.com/teodorglisic/nextjs-tutorial) — Server-Side-Rendering-Spielwiese mit Next.js App Router
+- [valentine-project](https://github.com/teodorglisic/valentine-project) — Interaktive, animierte Single-Page Webapplikation
+- [cat-quiz](https://github.com/teodorglisic/cat-quiz) — JavaScript Punkte-basiertes Quiz-Spiel
+- [html-tryout](https://github.com/teodorglisic/html-tryout) — Web-Entwicklungs- und Layout-Übungen (Udemy)
+
+</details>
+
+<details>
+<summary><b>📊 Datenanalyse, Python & R</b> (Ausklappen)</summary>
+
+- [tsar_project_3_group_3](https://github.com/teodorglisic/tsar_project_3_group_3) — Holt-Winters & ARIMA Prognosen in R
+- [tsar_project_2_group_3](https://github.com/teodorglisic/tsar_project_2_group_3) — Regressionsmodelle mit autokorrelierten Fehlern in R
+- [tsar_project_1_group_3](https://github.com/teodorglisic/tsar_project_1_group_3) — Explorative Zeitreihenanalyse in R
+- [data_analysis](https://github.com/teodorglisic/data_analysis) — Python Pandas & Jupyter Notebooks zur Datenverarbeitung
+- [introduction_to_python](https://github.com/teodorglisic/introduction_to_python) — Standardalgorithmen & Programmierübungen
+- [start_in_python](https://github.com/teodorglisic/start_in_python) — Kernsyntax-Snippets & grundlegende Python-Funktionen
+
+</details>
+
+<details>
+<summary><b>🛠️ Sonstige Projekte (Kotlin)</b> (Ausklappen)</summary>
+
+- [battleship_project](https://github.com/teodorglisic/battleship_project) — Battleship-Brettspiel für die Konsole (Kotlin CLI)
+
+</details>
+
+---
+
 ### 📬 Kontakt
 
 - **LinkedIn:** [linkedin.com/in/teodor-glisic](https://linkedin.com/in/teodor-glisic)
 - **E-Mail:** [glisic.teodor@gmail.com](mailto:glisic.teodor@gmail.com)
 
 ---
-
-Lass uns gemeinsam an zukunftsweisenden IT-Lösungen arbeiten!
